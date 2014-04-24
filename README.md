@@ -1,7 +1,10 @@
 ReadMe
 ==========================
 
-This repository provides a script to create a tidy data set from the Samsung Human Activity Recognition data set. Following three files are privided in this repository: 
+This repository provides a script to create a tidy data set from the Samsung Human Activity Recognition data set.
+The original data set can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Following three files are privided in this repository: 
 * README.md
 * run_analysis.R
 * CodeBook.md
