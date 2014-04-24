@@ -1,7 +1,7 @@
 Code Book
 ======================
 
-The tidy data set created by the run_analysis.R has following variables in this order:  
+The tidy data set created by the run_analysis.R has following variables in this order. The variables from column 3 to 81 are computed as the average of the corresponding measures for each combination of the subject and activity.  
 
 1.  subject:  subject identifier
 2.  activity:  activity name 
